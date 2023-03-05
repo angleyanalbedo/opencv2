@@ -1,0 +1,6 @@
+/d/BaiduNetdiskDownload/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Chapter_02/CMakeFiles/sample1.dir
+/d/BaiduNetdiskDownload/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Chapter_02/CMakeFiles/sample2.dir
+/d/BaiduNetdiskDownload/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Chapter_02/CMakeFiles/sample3.dir
+/d/BaiduNetdiskDownload/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Chapter_02/CMakeFiles/Chapter2.dir
+/d/BaiduNetdiskDownload/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Chapter_02/CMakeFiles/edit_cache.dir
+/d/BaiduNetdiskDownload/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Learn-OpenCV-4-By-Building-Projects-Second-Edition-master/Chapter_02/CMakeFiles/rebuild_cache.dir
